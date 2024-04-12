@@ -9,12 +9,12 @@
 }
 
 :root {
-    --color-background: #fffdf7;
+    --color-background: #faf2fa;
     --color-black: #212121;
     --color-full-black: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
-    --color-primary: #ffbf00;
+    --color-primary: #ffa8d9;
     --color-secondary: #fff2cc;
     --color-white: #ffffff;
     --color-red: #e74c3c;
@@ -149,7 +149,7 @@ a.navbar-brand {
     height: 450px;
     width: 450px;
     border-radius: 170px;
-    background-color: #f4c949;
+    background-color: #ffa8d9;
     position: absolute;
     right: 0;
     top: -80px;
@@ -231,7 +231,7 @@ a.navbar-brand {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-2.png);
+    ;
 }
 
 .cardapio {
@@ -244,7 +244,7 @@ a.navbar-brand {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-1.png);
+   ;
 }
 
 .container-menu {
@@ -348,7 +348,7 @@ a.navbar-brand {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-1.png);
+    
 }
 
 .card-depoimentos {
