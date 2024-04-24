@@ -62,7 +62,7 @@ cardapio.metodos = {
         // seta o menu para ativo
         $('#menu-' + categoria).addClass('active')
     },
-
+    
     // Clique no botão de "Ver mais"
     verMais: () => {
 
@@ -94,7 +94,7 @@ cardapio.metodos = {
     adicionarAoCarrinho: (id) => {
         let qntdAtual = parseInt($('#qntd-' + id).text())
 
-        if (qntdAtual > 0) {
+        if (qntdAtual > 0){
             //obter a categoria ativa
             var categoria = $(".container-menu a.active").attr('id').split('menu-')[1]
 

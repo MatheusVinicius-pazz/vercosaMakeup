@@ -7,15 +7,18 @@
     font-family: 'PoppinsRegular';
     src: url(../fonts/Poppins-Regular.otf) format(opentype);
 }
-
+.img-logo{
+    border-radius: 100px;
+    width: 150px;
+}
 :root {
-    --color-background: #faf2fa;
+    --color-background: rgb(253, 250, 251);
     --color-black: #212121;
     --color-full-black: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
     --color-primary: #ffa8d9;
-    --color-secondary: #fff2cc;
+    --color-secondary: #f1d4e5;
     --color-white: #ffffff;
     --color-red: #e74c3c;
     --color-green: #2ecc71;
@@ -146,8 +149,8 @@ a.navbar-brand {
 }
 
 .card-banner {
-    height: 450px;
-    width: 450px;
+    height: 595px;
+    width: 423px;
     border-radius: 170px;
     background-color: #ffa8d9;
     position: absolute;
@@ -157,9 +160,9 @@ a.navbar-brand {
 
 .img-banner img {
     position: absolute;
-    width: 570px;
-    top: 30px;
-    right: 15px;
+    width: 400px;
+    top: 1px;
+    right: 20px;
 }
 
 .card {
@@ -252,11 +255,13 @@ a.navbar-brand {
 }
 
 .card-item {
-    height: 360px;
+    height: 480px;
 }
 
 .card-item .img-produto img {
     width: 100%;
+    height: auto;
+    
     border-radius: 11px;
 }
 
@@ -660,6 +665,7 @@ select.form-control {
 
 .img-produto-resumo img {
     width: 50px;
+    height: 10px;
     border-radius: 11px;
 }
 
