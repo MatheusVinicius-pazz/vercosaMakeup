@@ -22,6 +22,10 @@
         display: none;
     }
 
+    .img-logo{
+        width: 10px;
+        height: 10px;
+    }
     .col-one {
         padding-left: 35px!important;
         padding-right: 35px!important;
