@@ -446,18 +446,10 @@ a.navbar-brand {
     padding: 90px
 }
 
-.card-reserva {
-    height: 320px;
-    width: 320px;
-    border-radius: 120px;
-    background-color: var(--color-white);
-    position: absolute;
-    right: 0;
-    top: -25;
-}
 
 .reserva .img-banner img {
-    width: 90%;
+    width: 70%;
+    
 }
 
 footer {
