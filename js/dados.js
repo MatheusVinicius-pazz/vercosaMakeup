@@ -35,7 +35,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/cilios-posticos.jpeg",
             "name": "Cílios Postiços Mey Beauty",
             "dsc": "Vem também um kit Escovinha + tesourinha, que vai facilitar ainda mas na hora de usar seu cílios postiços.",
-            "price": 89
+            "price": 12
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
@@ -103,7 +103,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/esfoliante-bumbum.jpeg",
             "name": "Esfoliante Bum Bum lisinho",
             "dsc": "Kit de pincel",
-            "price": 25.5
+            "price": 18.5
         }
     ]
     
