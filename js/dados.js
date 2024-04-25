@@ -92,14 +92,14 @@ var MENU = {
             "price": 25.5
         },
         {
-            "id": "burger-au-poivre-kit-4-pack",
+            "id": "burger-au-poivre-kit-4-pack-1",
             "img": "./img/cardapio/burguers/esfoliante-tamaras.jpeg",
             "name": "Esfoliante Corporal Tamaras Maduras",
             "dsc": "Esfoliante Corporal Tamaras Maduras",
             "price": 18.5
         },
         {
-            "id": "burger-au-poivre-kit-4-pack",
+            "id": "burger-au-poivre-kit-4-pac-2",
             "img": "./img/cardapio/burguers/esfoliante-bumbum.jpeg",
             "name": "Esfoliante Bum Bum lisinho",
             "dsc": "Kit de pincel",
